@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "amfmRadio", "amfmRadio\amfmRadio.vcxproj", "{D31AE7CB-281B-4A73-848D-7CC7E1177D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D31AE7CB-281B-4A73-848D-7CC7E1177D62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D31AE7CB-281B-4A73-848D-7CC7E1177D62}.Debug|Win32.Build.0 = Debug|Win32
+		{D31AE7CB-281B-4A73-848D-7CC7E1177D62}.Release|Win32.ActiveCfg = Release|Win32
+		{D31AE7CB-281B-4A73-848D-7CC7E1177D62}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
